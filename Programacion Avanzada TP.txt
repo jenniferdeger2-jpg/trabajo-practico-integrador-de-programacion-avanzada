@@ -1,0 +1,33 @@
+Investigar que es un documento de especificación de requerimientos y para qué sirve. ¿Cuáles son los distintos tipos de requerimientos? ¿Qué son los casos de uso y para qué sirven?
+
+Un documento de especificación de requerimientos, también conocido como ERS o SRS, es un documento donde se explica de forma clara qué debe hacer un sistema de software y cuáles son sus objetivos principales. Su función es servir como guía durante el desarrollo del proyecto, ayudando tanto a desarrolladores como a clientes y analistas a entender cómo debe funcionar el sistema. Además, permite evitar confusiones entre las partes involucradas y facilita las etapas de diseño, desarrollo y pruebas.
+
+Los requerimientos pueden dividirse en diferentes tipos. Los requerimientos funcionales describen las acciones que debe realizar el sistema, como registrar usuarios, generar facturas o permitir iniciar sesión. Los requerimientos no funcionales están relacionados con aspectos como la seguridad, la velocidad de respuesta, la compatibilidad o el rendimiento del sistema. También existen los requerimientos de negocio, que se enfocan en los objetivos de la empresa, por ejemplo reducir tiempos de atención o automatizar tareas administrativas. Por último, los requerimientos de usuario representan las necesidades de las personas que van a utilizar el sistema, como consultar pedidos de forma rápida y sencilla.
+
+Los casos de uso representan la interacción entre un usuario y el sistema para realizar una tarea determinada. Sirven para identificar las funciones del sistema y comprender cómo los usuarios interactúan con él. Además, ayudan a organizar los requerimientos y facilitan la comunicación entre desarrolladores y clientes. Algunos ejemplos de casos de uso pueden ser realizar una compra, iniciar sesión o registrar un cliente.
+
+2. Investigar la importancia del uso de notaciones en el análisis y diseño de un sistema. ¿Por qué no usar lenguaje natural? ¿Qué beneficios genera utilizar UML?
+
+Las notaciones permiten representar sistemas de manera visual y organizada, facilitando que distintas personas puedan entender el funcionamiento del sistema sin necesidad de leer largas explicaciones. En el desarrollo de software ayudan a ordenar ideas, mostrar relaciones entre objetos, detectar errores antes de programar y mejorar la comunicación dentro del equipo de trabajo.
+
+El uso solamente del lenguaje natural puede generar problemas, ya que muchas veces las descripciones escritas pueden interpretarse de distintas maneras dependiendo de quién las lea. Esto puede provocar confusiones y errores durante el desarrollo del sistema. En cambio, UML utiliza símbolos y reglas estandarizadas que permiten representar la información de manera mucho más clara y precisa.
+
+El Lenguaje Unificado de Modelado, conocido como UML, aporta muchos beneficios en el análisis y diseño de software. Permite representar sistemas de forma organizada, facilita la comunicación entre desarrolladores y ayuda a visualizar tanto la estructura como el funcionamiento del sistema. También es útil para documentar proyectos, mejorar la organización del código, facilitar el mantenimiento futuro y detectar problemas antes de comenzar la implementación. UML puede utilizarse en distintas etapas del desarrollo, como el análisis, diseño, implementación y documentación del sistema.
+
+5. Documentar los pros y contras del uso de UML. ¿Qué usaría en un futuro? ¿Qué utilidad práctica encuentra en UML?
+
+El uso de UML tiene muchas ventajas dentro del análisis y diseño de sistemas, ya que ayuda a comprender mejor el funcionamiento del software y facilita la comunicación entre los integrantes del equipo. Además, permite detectar errores antes de comenzar a programar, organizar mejor el desarrollo y generar documentación técnica clara y ordenada. También resulta muy útil para el mantenimiento del sistema, porque los diagramas ayudan a entender rápidamente cómo funciona el software incluso tiempo después de haber sido desarrollado.
+
+Sin embargo, UML también tiene algunas desventajas. Realizar diagramas detallados puede llevar bastante tiempo y, en proyectos pequeños, puede resultar innecesario. Además, requiere aprender previamente sus símbolos y notaciones para poder utilizarlo correctamente. Otro problema es que, si los diagramas no se actualizan junto con el código, la documentación puede quedar desactualizada y perder utilidad.
+
+En un futuro utilizaría principalmente diagramas de clases, diagramas de casos de uso y diagramas de secuencia, porque considero que son los más útiles para comprender tanto la estructura como el funcionamiento e interacción de los distintos elementos de un sistema. Estos diagramas permiten entender de forma clara cómo se relacionan los objetos, cómo interactúan los usuarios y cómo se desarrollan los procesos dentro del software.
+
+Desde un punto de vista práctico, UML es muy útil para planificar proyectos antes de programar, comprender sistemas complejos, documentar software y facilitar el trabajo en equipo. Además, ayuda a organizar la lógica del sistema antes de escribir código, reduciendo errores y mejorando la calidad del desarrollo.
+
+6. Investigue el uso de otros 3 diagramas de UML. ¿Por qué los seleccionó?
+
+1- El diagrama de actividades representa el flujo de tareas y procesos dentro de un sistema. Su utilidad principal es mostrar de manera ordenada cómo se desarrollan las distintas acciones y decisiones dentro de un proceso, permitiendo visualizar cada etapa paso a paso. Lo seleccioné porque ayuda a comprender mejor cómo funciona internamente un sistema y el orden en que ocurren las acciones.
+
+2- El diagrama de componentes muestra cómo se organizan las distintas partes o módulos del software y cómo se relacionan entre sí. Este tipo de diagrama es útil para entender la estructura general del sistema y la manera en que se conectan sus diferentes componentes. Lo elegí porque facilita la comprensión de la organización del proyecto.
+
+3- El diagrama de despliegue representa cómo se distribuye el software en computadoras, servidores o dispositivos físicos. Este diagrama permite visualizar cómo se conectan los distintos equipos y dónde funciona cada parte del sistema. Lo seleccioné porque ayuda a entender mejor la infraestructura y el entorno donde funcionará el software.
